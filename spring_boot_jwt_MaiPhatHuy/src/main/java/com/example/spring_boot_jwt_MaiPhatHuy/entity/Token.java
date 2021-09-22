@@ -7,7 +7,9 @@ import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.Table;
 import java.util.Date;
-
+/**
+ * @author MPHuy on 22/09/2021
+ */
 @Entity
 @Table(name = "t_token")
 @Getter

@@ -7,7 +7,9 @@ import lombok.Setter;
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
-
+/**
+ * @author MPHuy on 22/09/2021
+ */
 @Entity
 @Table(name = "t_user")
 @Getter

@@ -5,7 +5,9 @@ import lombok.Setter;
 
 import javax.persistence.Entity;
 import javax.persistence.Table;
-
+/**
+ * @author MPHuy on 22/09/2021
+ */
 @Entity
 @Table(name = "t_permission")
 @Getter
